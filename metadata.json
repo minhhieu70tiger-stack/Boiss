@@ -1,0 +1,6 @@
+{
+  "name": "Boiscales",
+  "description": "Nền tảng tối ưu hóa dung lượng ảnh và video, tăng cường độ nét và chi tiết hình ảnh hoàn toàn trên trình duyệt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
